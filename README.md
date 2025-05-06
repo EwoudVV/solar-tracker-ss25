@@ -8,4 +8,4 @@ solar tracker project for stratoscience 2025
  - to do that, the rotated flaps on the side of the base plate have solar panels on them (4 total)
  - an arduino on board will take the analog output value of those panels, and calculate where the brightest light source is
  - it will move the servos accordingly until the panel is directly facing the sun
- - there will bo other people's projects on the base plate, and they need to be facing the sun
+ - there will be other people's projects on the base plate, and they need to be facing the sun
